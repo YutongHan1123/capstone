@@ -1,0 +1,44 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "King","size": 1776,
+     "children": [
+      {"name": "Youko", "size": 867},
+      {"name": "female", "size": 1288},
+      {"name": "Gyousou", "size": 149},
+      {"name": "Shoryu", "size": 131},
+      {"name": "Real", "size": 10},
+      {"name": "Kirin", "size": 660},
+      {"name": "Shitsudou", "size": 263},
+      {"name": "Tai", "size": 1032},
+      {"name": "Kei", "size": 360},
+      {"name": "En", "size": 162},
+      {"name": "Kou", "size": 85}
+     ]
+    },
+    {
+     "name": "Ki","size": 1074,
+     "children": [
+      {"name": "Corner", "size": 39},
+      {"name": "Rin", "size": 739}
+     ]
+    },
+    {
+     "name": "Country","size": 1074,
+     "children": [
+      {"name": "Ren", "size": 74},
+      {"name": "Sai", "size": 36},
+      {"name": "Sou", "size": 39},
+      {"name": "Hou", "size": 283},
+      {"name": "Kou", "Shun": 17},
+      {"name": "Kou", "Ryuu": 34}
+     ]
+    }
+   ]
+  }
+ ]
+}
